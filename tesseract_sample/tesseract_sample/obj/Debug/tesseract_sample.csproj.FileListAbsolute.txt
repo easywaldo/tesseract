@@ -1,0 +1,14 @@
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\x64\liblept172.dll
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\x64\libtesseract304.dll
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\x86\liblept172.dll
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\x86\libtesseract304.dll
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\tesseract_sample.exe.config
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\tesseract_sample.exe
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\tesseract_sample.pdb
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\Tesseract.dll
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\bin\Debug\Tesseract.xml
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\obj\Debug\tesseract_sample.csproj.CoreCompileInputs.cache
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\obj\Debug\tesseract_sample.csproj.CopyComplete
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\obj\Debug\tesseract_sample.exe
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\obj\Debug\tesseract_sample.pdb
+C:\Users\easyrosie\Study\tesseract\tesseract_sample\tesseract_sample\obj\Debug\tesseract_sample.csprojAssemblyReference.cache
